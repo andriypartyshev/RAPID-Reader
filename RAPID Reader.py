@@ -76,7 +76,5 @@ def read_RAPID(filename,savefile):
 
 
 
-#read_refference("Refference.csv")
-#run("ref.csv", new_path,old_path)
 read_RAPID("M_178.mod","record.csv")
 
